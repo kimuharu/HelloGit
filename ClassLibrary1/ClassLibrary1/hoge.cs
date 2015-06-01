@@ -12,6 +12,7 @@ namespace ClassLibrary1
         {
             Console.WriteLine("Hello Git!");
             Console.WriteLine("Goodbye Git!");
+            Console.WriteLine("power works");
         }
     }
 }

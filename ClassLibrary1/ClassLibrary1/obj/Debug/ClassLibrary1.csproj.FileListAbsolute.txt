@@ -3,3 +3,8 @@ C:\Users\h.kimura\Desktop\GitHub\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibr
 C:\Users\h.kimura\Desktop\GitHub\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
 C:\Users\h.kimura\Desktop\GitHub\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\h.kimura\Desktop\GitHub\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\h.kimura\Desktop\GitHub2\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\h.kimura\Desktop\GitHub2\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\h.kimura\Desktop\GitHub2\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\h.kimura\Desktop\GitHub2\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\h.kimura\Desktop\GitHub2\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
