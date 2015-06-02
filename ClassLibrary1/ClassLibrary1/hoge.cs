@@ -15,6 +15,8 @@ namespace ClassLibrary1
             Console.WriteLine("power works");
 
             Console.WriteLine("haruki kimura");
+
+            Console.WriteLine("jinnbochou");
         }
     }
 }
